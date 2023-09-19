@@ -1,0 +1,270 @@
+body {
+  background: #f6f6fa;
+  padding: 40px 40px 40px 40px;
+  font-family: "Montserrat", sans-serif;
+}
+ol,
+ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+/* wrapper */
+.wrapper {
+  background: #fff;
+  display: flex;
+  flex-direction: row-reverse;
+}
+/* main-content */
+.main-content {
+  padding: 88px 80px 40px 80px;
+  box-sizing: border-box;
+  width: 100%;
+}
+/* sidebar */
+.sidebar {
+  background: #e0ebfe;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  box-sizing: border-box;
+  width: 370px;
+}
+.sidebarc {
+  padding: 40px 40px 40px;
+  box-sizing: border-box;
+}
+
+/* contacts */
+
+.contacts-title {
+  color: #161d2a;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.contacts-type {
+  color: #161d2a;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-right: 8px;
+}
+.contacts-l {
+  color: #2979ff;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-decoration-line: underline;
+}
+.contacts-i {
+  margin-top: 0px;
+  margin-bottom: 4px;
+}
+.contacts-conteiner {
+  margin-bottom: 40px;
+}
+/* T-Skils */
+.skils-cont {
+  margin-bottom: 40px;
+}
+.t-title {
+  color: #161d2a;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.skils-list {
+  padding-left: 16px;
+  color: #161d2a;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+/* S-skils */
+.s-skils {
+  margin-bottom: 40px;
+}
+.s-title {
+  color: #161d2a;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.s-list {
+  padding-left: 16px;
+  color: #161d2a;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+/* main content */
+.my-info {
+  margin-bottom: 43px;
+}
+.my-pr {
+  margin-top: 0px;
+  margin-bottom: 8px;
+  color: #000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 17px;
+}
+.my-name {
+  margin-top: 0px;
+  margin-bottom: 12px;
+  color: #000;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 55px;
+}
+.my-descr {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  width: 702px;
+}
+.my-info {
+  margin-bottom: 40px;
+}
+/* My projects */
+.proj {
+  color: #000;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 27px;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.proj-list {
+  padding-left: 18px;
+}
+.proj-item {
+  color: #000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.proj-link {
+  color: #005fff;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  text-decoration-line: underline;
+}
+.proj-span {
+  color: #595959;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+.proj-cont {
+  margin-bottom: 40px;
+}
+/* My experience */
+.work-title {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27px;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.company {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+}
+.item {
+  color: #6d9bf5;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+}
+.hors {
+  color: #a8a8a8;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  width: 248.016px;
+  margin-bottom: 8px;
+}
+.sp2 {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+}
+.comp-list {
+  padding-left: 18px;
+  color: #595959;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+.qwe {
+  margin-bottom: 12px;
+}
+/* education */
+.e-title {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 40px;
+  margin-bottom: 8px;
+}
+.ed-one {
+  color: #6d9bf5;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 8px;
+}
+.ed-two {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 8px;
+}
+.yyyy {
+  color: transparent;
+  border-bottom: #a8a8a8;
+  border-style: dashed;
+  width: 164.219px;
+  height: 48px;
+  flex-shrink: 0;
+}
